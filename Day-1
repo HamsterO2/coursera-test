@@ -1,0 +1,27 @@
+What is HTML ?
+Hypertext Markup Language 
+1. Well hypertext is text which contains links to other texts 
+2. Markup means to mark something up, to annotate
+3. Language basically implies that it has its own syntax meaning there's a right and a wrong way to code it
+
+HTML, CSS & JavaScript ?
+1. HTML provides the structure 
+2. CSS provides style (color , font size etc..)
+3. JS provides behaviour and functionality(what happens to when i click one heading ....)
+
+
+Anatomy of an HTML tag :- 
+     <p>        -------       <p>
+{openign tag}  {content} {closing tag} 
+
+<p id="myId"></p>
+Attribute is a name value pair that is kind of a meta data about the element itself that it's being applied to. So in this example, we are assigning myId as the value of the id attribute. Each attribute has its own rules for the meaning of its value. So for example, id attribute, being assigned as an example, has to be unique within the scope of the entire HTML document. In other words, no other element of any kind in the webpage is allowed to have its id attribute equal to the string myID.
+
+** Spacing **
+![Alt text](image.png)
+
+value should always be added in single or double qoutes 
+
+
+Basic HTML documnet structure
+
